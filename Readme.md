@@ -4,7 +4,7 @@
 
 # OpenBao Mentee Progress Reports
 
-This repository serves as a log of my journey contributing to OpenBao as a mentee. The following sections track my progress, key takeaways, and reflections on various aspects of my contributions.
+This repository serves as a log of my journey contributing to OpenBao as a mentee.
 
 ## Progress Report Format
 
