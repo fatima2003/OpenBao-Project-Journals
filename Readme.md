@@ -19,7 +19,7 @@ Each report is categorized into four key sections:
 
 ## Example Entry
 
-###### 14 - 16 Oct
+###### 14 Oct
  
 > 🖋️ **Emails Discussing Mentorship Details and Project Ideas**  
 > Covered time commitment and availability, project goals, and the structure for progress reporting.
@@ -30,7 +30,7 @@ Each report is categorized into four key sections:
 > 💻 **[Issue #459](https://github.com/openbao/openbao/issues/459) PKI - Allow revocation of expired certificates**  
 > Looked into use cases and started altering code.
 
-###### 16 Oct - ...
+###### 16 Oct
 > 🖋️ **Lorem Ipsum**  
 > Lorem nde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ips.
 >
