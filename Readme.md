@@ -4,7 +4,7 @@
 
 # OpenBao Mentee Progress Reports
 
-This repository serves as a log of my journey contributing to OpenBao as a mentee.
+This repository serves as a log of my journey contributing to OpenBao as a mentee under Alexander Scheel [@cipherboy](https://github.com/cipherboy).
 
 ## Progress Report Format
 
