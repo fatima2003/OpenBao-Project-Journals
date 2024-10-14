@@ -1,6 +1,6 @@
 ## Journal Submission One 
 
-###### 14 - 16 Oct
+###### 14 Oct
  
 > 🖋️ **Emails Discussing Mentorship Details and Project Ideas**  
 > Covered time commitment and availability, project goals, and the structure for progress reporting.
@@ -11,6 +11,6 @@
 > 💻 **[Issue #459](https://github.com/openbao/openbao/issues/459) PKI - Allow revocation of expired certificates**  
 > Looked into use cases and started altering code.
 
-###### 16 Oct - 
+###### -- Oct 
  
 
