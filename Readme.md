@@ -16,8 +16,28 @@ Each report is categorized into four key sections:
 | 🖋️   | Meeting Notes | Key takeaways from meetings and emails.                             |
 | 💻   | Contributions | Code written, documentation browsed, issues read, code reviews &c.  |
 | 💡   | Reflections   | Open ended.                                                         |
-___
 
+## Example Entry
+
+###### 14 - 16 Oct
+ 
+> 🖋️ **Emails Discussing Mentorship Details and Project Ideas**  
+> Covered time commitment and availability, project goals, and the structure for progress reporting.
+>
+> 📖 **RFC 5280: Internet X.509 Public Key Infrastructure Certificate and CRL Profile**  
+> Browsed through the docs to understand X.509 Version 3 Certificate and Certificate extensions better.
+> 
+> 💻 **[Issue #459](https://github.com/openbao/openbao/issues/459) PKI - Allow revocation of expired certificates**  
+> Looked into use cases and started altering code.
+
+###### 16 Oct - ...
+> 🖋️ **Lorem Ipsum**  
+> Lorem nde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ips.
+>
+> 💡 **Lorem Ipsum**  
+> Lorem nde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ips.
+> 
+___
 ### Report Frequency
 
 Progress reports are created and updated every 3 weeks, ensuring consistent tracking of my contributions and learnings over time.
