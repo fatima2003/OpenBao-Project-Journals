@@ -27,8 +27,8 @@
 > 💻 **[Bao API/PKI Documentation](https://openbao.org/api-docs/secret/pki/#tidy)**    
 > $\quad$ $\space$ Went through parameter definitions and tested them out on dev server to aid with solving [Issue #459](https://github.com/openbao/openbao/issues/459)
 >
-> 📖 **API-First Approach**
-> $\quad$ $\space$
+> 💡 **API-First Approach**
+> $\quad$ $\space$ 
 > 
 
 ####  ${\color{Teal} \textnormal{16 Oct}}$
