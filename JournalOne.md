@@ -17,6 +17,7 @@
 > 
 > 💻 **[Issue #459](https://github.com/openbao/openbao/issues/459) PKI - Allow revocation of expired certificates**    
 > $\quad$ $\space$ Looked into use cases and started modifying code.
+> $\quad$ $\space$ Recreated the issue on my environment. 
 >
 > 💻 **[Vault #27609](https://github.com/hashicorp/vault/issues/27609) [Vault #19452](https://github.com/hashicorp/vault/issues/19452)**   
 > $\quad$ $\space$ Looked into issues & comments connected to [Issue #459](https://github.com/openbao/openbao/issues/459).
