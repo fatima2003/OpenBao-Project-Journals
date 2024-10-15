@@ -12,8 +12,10 @@
 > $\quad$ $\space$ Covered time commitment and availability, project goals, and the structure for progress reporting.
 >
 > 📖 **RFC 5280: Internet X.509 Public Key Infrastructure Certificate and CRL Profile**  
-> $\quad$ $\space$ Browsed through the docs to understand X.509 Version 3 Certificate and Certificate extensions better.   
-> $\quad$ $\space$ Went over these Vault tutorials: [Tokens](https://docs.hashicorp.com/vault/tutorials/get-started/introduction-tokens), [Policies](https://docs.hashicorp.com/vault/tutorials/get-started/introduction-policies) and [Roles](https://docs.hashicorp.com/vault/tutorials/get-started/introduction-roles)
+> $\quad$ $\space$ Browsed through the docs to understand X.509 Version 3 Certificate and Certificate extensions better.
+> 
+> 📖 **Went over these Vault tutorials**  
+> $\quad$ $\space$ [Tokens](https://docs.hashicorp.com/vault/tutorials/get-started/introduction-tokens), [Policies](https://docs.hashicorp.com/vault/tutorials/get-started/introduction-policies) and [Roles](https://docs.hashicorp.com/vault/tutorials/get-started/introduction-roles)
 > 
 > 💻 **[Issue #459](https://github.com/openbao/openbao/issues/459) PKI - Allow revocation of expired certificates**    
 > $\quad$ $\space$ Looked into use cases and started modifying code.   
@@ -24,11 +26,30 @@
 > 
 > 💻 **[Bao API/PKI Documentation](https://openbao.org/api-docs/secret/pki/#tidy)**    
 > $\quad$ $\space$ Went through parameter definitions and tested them out on dev server to aid with solving [Issue #459](https://github.com/openbao/openbao/issues/459)
+>
+> 📖 **API-First Approach**
+> $\quad$ $\space$
+> 
 
 ####  ${\color{Teal} \textnormal{16 Oct}}$
 >
 > 💻 **Create Draft of First Blog Post**   
 > $\quad$ $\space$ 
+> 
+
+
+
+
+####  ${\color{Teal} \textnormal{18 Oct}}$
+> 🖋️ **First Mentorship Meeting**   
+> $\quad$ $\space$
+> 
+
+
+
+####  ${\color{Teal} \textnormal{1 Nov}}$
+> 🖋️ **Second Mentorship Meeting**   
+> $\quad$ $\space$
 > 
 
 
