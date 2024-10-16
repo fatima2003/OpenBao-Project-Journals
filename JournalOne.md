@@ -27,15 +27,17 @@
 > 💻 **[Bao API/PKI Documentation](https://openbao.org/api-docs/secret/pki/#tidy)**    
 > $\quad$ $\space$ Went through parameter definitions and tested them out on dev server to aid with solving [Issue #459](https://github.com/openbao/openbao/issues/459)
 >
-> 💡 **API-First Approach**
-> $\quad$ $\space$ 
+> 💡 **API-First Approach**   
+> $\quad$ $\space$ Make API responses consistent and predictable so clients don’t have to do redundant checks, hence reducing complexity.
 > 
-
-####  ${\color{Teal} \textnormal{16 Oct}}$
+####  ${\color{Teal} \textnormal{16 - 17 Oct}}$
 >
 > 💻 **Create Draft of First Blog Post**   
 > $\quad$ $\space$ 
-> 
+>
+> 💻 **Created [draft PR](https://github.com/openbao/openbao/pull/638) for Issue #459**   
+> $\quad$ $\space$ Added allow_expired_cert_revocation field and checked there's no issues parsing.
+>
 
 
 
