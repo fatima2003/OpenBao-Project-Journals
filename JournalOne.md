@@ -36,7 +36,9 @@
 > $\quad$ $\space$ 
 >
 > 💻 **Created [draft PR](https://github.com/openbao/openbao/pull/638) for Issue #459**   
-> $\quad$ $\space$ Added allow_expired_cert_revocation field and checked there's no issues parsing.
+> $\quad$ $\space$ Added allow_expired_cert_revocation field and checked there's no issues parsing.    
+> $\quad$ $\space$ Update revocation behavior.    
+> $\quad$ $\space$ Create tests for revoking expired-but-not-revoked certificates.    
 >
 > 🖋️ **TSC Meeting**   
 > $\quad$ $\space$
