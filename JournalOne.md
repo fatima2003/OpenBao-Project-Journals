@@ -46,13 +46,14 @@
 
 ####  ${\color{Teal} \textnormal{18 Oct}}$
 > 🖋️ **First Mentorship Meeting**   
-> $\quad$ $\space$
-> 
+> $\quad$ $\space$ Confirmed my understanding of the Issue #459
+> $\quad$ $\space$ Discussed issue #27219 of vault, agreed we should delete the invalid certificates
+> $\quad$ $\space$ Discussed how revoked_safety_buffer should work alongside safety_buffer
 
 ####  ${\color{Teal} \textnormal{21 - 23 Oct}}$
-> 💻 **Created [draft PR](https://github.com/openbao/openbao/pull/653) as a follow up for my prev [PR](https://github.com/openbao/openbao/pull/638)**   
-> $\quad$ $\space$ created test to check if revoked_safety_buffer
-> 💻 **Spent hours trying to figure out pointers for PR 653**   
+> 💻 **Created [draft PR](https://github.com/openbao/openbao/pull/653) as a follow up for my prev [PR](https://github.com/openbao/openbao/pull/638)**       
+> $\quad$ $\space$ created test to check if revoked_safety_buffer    
+> 💻 **Spent hours trying to figure out pointers for PR 653**       
 
 ####  ${\color{Teal} \textnormal{1 Nov}}$
 > 🖋️ **Second Mentorship Meeting**   
