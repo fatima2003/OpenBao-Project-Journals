@@ -44,14 +44,15 @@
 > $\quad$ $\space$
 
 
-
-
 ####  ${\color{Teal} \textnormal{18 Oct}}$
 > 🖋️ **First Mentorship Meeting**   
 > $\quad$ $\space$
 > 
 
-
+####  ${\color{Teal} \textnormal{21 - 23 Oct}}$
+> 💻 **Created [draft PR](https://github.com/openbao/openbao/pull/653) as a follow up for my prev [PR](https://github.com/openbao/openbao/pull/638)**   
+> $\quad$ $\space$ created test to check if revoked_safety_buffer
+> 💻 **Spent hours trying to figure out pointers for PR 653**   
 
 ####  ${\color{Teal} \textnormal{1 Nov}}$
 > 🖋️ **Second Mentorship Meeting**   
