@@ -36,9 +36,9 @@
 > $\quad$ $\space$ 
 >
 > 💻 **Created [draft PR](https://github.com/openbao/openbao/pull/638) for Issue #459**   
-> $\quad$ $\space$ Added allow_expired_cert_revocation field and checked there's no issues parsing.    
-> $\quad$ $\space$ Update revocation behavior.    
-> $\quad$ $\space$ Create tests for revoking expired-but-not-revoked certificates.    
+> $\quad$ $\space$ Added allow_expired_cert_revocation field and checked there's no issues parsing.     
+> $\quad$ $\space$ Update revocation behavior.       
+> $\quad$ $\space$ Create tests for revoking expired-but-not-revoked certificates.   
 >
 > 🖋️ **TSC Meeting**   
 > $\quad$ $\space$
@@ -46,9 +46,11 @@
 
 ####  ${\color{Teal} \textnormal{18 Oct}}$
 > 🖋️ **First Mentorship Meeting**   
-> $\quad$ $\space$ Confirmed my understanding of the Issue #459
-> $\quad$ $\space$ Discussed issue #27219 of vault, agreed we should delete the invalid certificates
-> $\quad$ $\space$ Discussed how revoked_safety_buffer should work alongside safety_buffer
+> $\quad$ $\space$ Confirmed my understanding of the Issue #459   
+> $\quad$ $\space$ Discussed issue #27219 of vault, agreed we should delete the invalid certificates   
+> $\quad$ $\space$ Discussed how revoked_safety_buffer should work alongside safety_buffer   
+> 💻 **Still working on [PR](https://github.com/openbao/openbao/pull/638) for Issue #459**    
+
 
 ####  ${\color{Teal} \textnormal{21 - 23 Oct}}$
 > 💻 **Created [draft PR](https://github.com/openbao/openbao/pull/653) as a follow up for my prev [PR](https://github.com/openbao/openbao/pull/638)**       
