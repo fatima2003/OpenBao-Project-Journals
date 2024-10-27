@@ -53,9 +53,18 @@
 
 
 ####  ${\color{Teal} \textnormal{21 - 23 Oct}}$
-> 💻 **Created [draft PR](https://github.com/openbao/openbao/pull/653) as a follow up for my prev [PR](https://github.com/openbao/openbao/pull/638)**       
-> $\quad$ $\space$ created test to check if revoked_safety_buffer    
-> 💻 **Spent hours trying to figure out pointers for PR 653**       
+> 💻 **Created [draft PR](https://github.com/openbao/openbao/pull/653) as a follow up for my prev [PR](https://github.com/openbao/openbao/pull/638)**
+> $\quad$ $\space$ ensured revoked_safety_buffer defaults to safety_buffer when unset.
+> $\quad$ $\space$ $\quad$ $\space$ Had a bit of a hard time figuring this one out because of the pointers.
+> $\quad$ $\space$ created test to check if revoked_safety_buffer and safety_buffer values are correctly set and defaulted.
+
+####  ${\color{Teal} \textnormal{24 - 25 Oct}}$      
+> $\quad$ $\space$ Completed implementation for [revoked_safety_buffer](https://github.com/openbao/openbao/pull/653).
+> $\quad$ $\space$ Created corresponding tests and updated current tests. 
+
+####  ${\color{Teal} \textnormal{28 Oct}}$      
+> $\quad$ $\space$ Pulled issue [Tidy and revoke error out on certificates with duplicate extension](https://github.com/openbao/openbao/issues/659) from Vault.
+> $\quad$ $\space$ 
 
 ####  ${\color{Teal} \textnormal{1 Nov}}$
 > 🖋️ **Second Mentorship Meeting**   
