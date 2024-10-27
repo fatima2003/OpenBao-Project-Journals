@@ -41,7 +41,6 @@
 > $\quad$ $\space$ Create tests for revoking expired-but-not-revoked certificates.   
 >
 > 🖋️ **TSC Meeting**   
-> $\quad$ $\space$
 
 
 ####  ${\color{Teal} \textnormal{18 Oct}}$
