@@ -12,3 +12,8 @@
 ###  ${\color{Teal} \textnormal{10 Jan}}$
 🖋️ **Mentorship Meeting**
 * Went over RFC progress, should we keep the parameter `failure_policy`?
+
+* Revising CEL issue program structure.
+
+###  ${\color{Teal} \textnormal{17 Jan}}$
+🖋️ **Mentorship Meeting**
