@@ -17,3 +17,14 @@
 
 ###  ${\color{Teal} \textnormal{17 Jan}}$
 🖋️ **Mentorship Meeting**
+- Discussed CEL Issuance Policy design choices:
+   - Remove Modify param.
+   - Remove isCelRole param and refactor Issue logic so that the cert is created from a x509 cert template.
+
+###  ${\color{Teal} \textnormal{24 Jan}}$
+🖋️ **Mentorship Meeting**
+- Reviewed EDCH PR
+- Discussed ZIZMOR PR
+
+###  ${\color{Teal} \textnormal{27 Jan}}$
+🖋️ **Host OpenBao Meeting**
